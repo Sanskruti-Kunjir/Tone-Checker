@@ -4,3 +4,7 @@ transformers
 torch
 numpy
 pandas
+plotly
+librosa
+soundfile
+
